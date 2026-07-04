@@ -28,8 +28,8 @@ Project Structure:
 
 url-shortener/
 │── app.py
-│── url_store.json
 │── requirements.txt
+│── url_store.json
 └── README.md
 
 
@@ -56,7 +56,6 @@ pip install flask
 4. Run the application:
 5. bash
 python app.py
-
 
 6. Open your browser and visit:
 

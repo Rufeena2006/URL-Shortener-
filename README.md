@@ -1,4 +1,4 @@
-URL Shortene:r
+URL Shortener:
 
 A simple URL Shortener web application built using Python and Flask. It converts long URLs into short, unique links and redirects users to the original website when the shortened link is accessed.
 

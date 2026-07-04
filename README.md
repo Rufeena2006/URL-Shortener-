@@ -30,7 +30,7 @@ url-shortener/
 └── README.md
 Installation:
 1. Clone the repository:
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/Rufeena2006/URL-Shortener.git
 2. Navigate to the project folder:
 cd url-shortener
 3. Install required dependencies:

@@ -66,7 +66,7 @@ def stats():
 
 @app.route("/", methods=["GET"])
 def home():
-    return
+    return"""
     <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -216,7 +216,7 @@ form.addEventListener('submit', async (event) => {
 </script>
 
 </body>
-</html>
+</html>"""
 
 if __name__ == "__main__":
     load_store()
